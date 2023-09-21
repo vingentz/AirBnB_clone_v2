@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """Test for console."""
+
 import unittest
 import os
 import pep8
